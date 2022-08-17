@@ -3,5 +3,6 @@ public class main {
         System.out.println("Hello Wrld");
         System.out.println("I THINK IT WORKED");
         System.out.println("i'm not sure if it worked :( ");
+        System.out.println("IT DID WORK! Thank you NIHAL");
     }
 }
